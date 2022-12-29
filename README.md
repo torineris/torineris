@@ -1,7 +1,7 @@
 ### About me
 
 - 📖 computer student
-- 💻 dev. jr at Higia Health Technology
+- 💻 data scientist at Higia Health Technology
 - 🌱 learning data science
 - 📫 vitorianerisrebelo@gmail.com
 ##
