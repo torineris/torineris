@@ -27,23 +27,21 @@
   </div>
   
 ##
-  ### 📊 Estatísticas: 
+  ### 📊 Estatísticas:
 <br>
 <div>
-  <a href="https://github.com/torineris">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=torineris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torineris&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=torineris&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torineris&layout=compact&theme=dracula"/>
 </div>
 
 ##
- ### ⭐️ Principais repositórios:
-  <br>
-  <div>
-    <a href="https://github.com/torineris/data_science_day-higia">
-      <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=data_science_day-higia&theme=radical" />
-    </a>
-    <a href="https://github.com/torineris/controle-visitantes">
-      <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=controle-visitantes&theme=radical" />
-    </a>
-  </div>
-  
+### ⭐️ Principais repositórios:
+<br>
+<div>
+  <a href="https://github.com/torineris/data_science_day-higia">
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=data_science_day-higia"/>
+  <a/>
+  <a href="https://github.com/torineris/controle-visitantes">
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=controle-visitantes"/>
+  </a>
+</div>
