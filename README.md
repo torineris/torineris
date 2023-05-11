@@ -41,7 +41,7 @@
   <a href="https://github.com/torineris/data_science_day-higia">
     <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=data_science_day-higia"/>
   <a/>
-  <a href="https://github.com/torineris/controle-visitantes">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=controle-visitantes"/>
+  <a href="https://github.com/torineris/python-pandas">
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=torineris&repo=python-pandas"/>
   </a>
 </div>
