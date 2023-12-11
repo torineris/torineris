@@ -1,4 +1,5 @@
 💻 **Cientista de Dados jr.** na HigIA Health Technology
+
 💜 **Co-organizadora** da comunidade **Pyladies Parnaíba**
 
 ##
