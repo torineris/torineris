@@ -1,9 +1,11 @@
 💻 **Cientista de Dados jr.** na HigIA Health Technology
+💜 **Co-organizadora** da comunidade **Pyladies Parnaíba**
+
 ##
 
 ### 📖 Formação:
-- Técnica em Informática para Web - SENAI PI
-- Bacharel em Ciência da Computação - UESPI
+- Técnica em Informática para Web - SENAI PI (2018)
+- Bacharel em Ciência da Computação - UESPI (2023)
 
 ##
 
