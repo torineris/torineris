@@ -1,4 +1,4 @@
-💻 **Cientista de Dados jr.** na HigIA Health Technology
+💻 **Analista de Dados** na Gif International
 
 💜 **Co-organizadora** da comunidade **Pyladies Parnaíba**
 
