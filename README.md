@@ -1,4 +1,4 @@
-💻 **Analista de Dados** na Gif International
+🎲 **Analista de Dados** na **Gif International**
 
 💜 **Co-organizadora** da comunidade **Pyladies Parnaíba**
 
@@ -17,10 +17,10 @@
   ### 🔧 Linguagens e Ferramentas:
   <div style="display: inline_block">
   <img align="center" alt="Python" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
   <img align="center" alt="Jupyter" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Pandas" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Numpy" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Mysql" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="PowerBI" height="30" width="90" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
   <img align="center" alt="Django" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="HTML" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
